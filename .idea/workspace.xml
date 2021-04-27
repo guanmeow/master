@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdfafb45-fefd-4cf9-9037-551b38b05179" name="Default Changelist" comment="" />
+    <list default="true" id="cdfafb45-fefd-4cf9-9037-551b38b05179" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gm/chen/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gm/chen/Box1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gm/chen/Taster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/box/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/box/Box3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/box/Box5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/box/BoxTaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/cust/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/cust/SeliverCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/cust/Tester2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/racing/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/racing/HorseRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/racing/Race.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/stu/GraduateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/stu/Mailer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/stu/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/master/fju/edu/stu/Tester.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1re4qakH18vCQtLFKyuSEQR3VsE" />
   <component name="ProjectViewState">
@@ -15,12 +50,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.BoxTaster">
+  <component name="RunManager" selected="Application.Taster">
     <configuration name="BoxTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fju.edu.box.BoxTaster" />
       <module name="master" />
@@ -60,11 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Taster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gm.chen.Taster" />
+      <module name="master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gm.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Taster" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.BoxTaster" />
         <item itemvalue="Application.Race" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -78,5 +128,21 @@
       <updated>1619323415925</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
