@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdfafb45-fefd-4cf9-9037-551b38b05179" name="Default Changelist" comment="0427 box">
+    <list default="true" id="cdfafb45-fefd-4cf9-9037-551b38b05179" name="Default Changelist" comment="0427 box enter number">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/gm/chen/Taster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gm/chen/Taster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619507967104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0427 box enter number">
+      <created>1619508310658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619508310658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0427 box simple" />
     <MESSAGE value="0427 box" />
-    <option name="LAST_COMMIT_MESSAGE" value="0427 box" />
+    <MESSAGE value="0427 box enter number" />
+    <option name="LAST_COMMIT_MESSAGE" value="0427 box enter number" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
